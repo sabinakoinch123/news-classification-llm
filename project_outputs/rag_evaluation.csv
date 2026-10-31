@@ -1,0 +1,5 @@
+query,expected_category,precision_at_k,average_score
+new technology and artificial intelligence research,Sci/Tech,0.4,0.030375099927186965
+football championship and sports team results,Sports,0.0,0.04452907964587212
+stock market company earnings and business,Business,0.0,0.004842043854296207
+international government and world politics,World,0.8,0.03469250053167343
